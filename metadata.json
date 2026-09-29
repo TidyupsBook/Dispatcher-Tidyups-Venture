@@ -1,0 +1,6 @@
+{
+  "name": "GitConnect - GitHub Project Explorer & Deep AI Intelligence",
+  "description": "Connect GitHub via OAuth, Personal Access Token, or public URL to explore projects, browse files and commits, and analyze code with Gemini high thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
